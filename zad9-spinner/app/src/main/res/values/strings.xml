@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">widgety</string>
+    <string name="pytanie">Jaki kolor ma trawa?</string>
+    <string name="przycisk">Sprawdz odpowiedz</string>
+    <string name="sprawdz_odpowiedz">Sprawdz odpowiedz</string>
+    <string name="kolor">kolor</string>
+    <string name="tekst1">tekst1</string>
+    <string-array name="opcjelisty">
+        <item>czerwony</item>
+        <item>zielony</item>
+        <item>niebieski</item>
+        <item>zolty</item>
+    </string-array>
+</resources>
