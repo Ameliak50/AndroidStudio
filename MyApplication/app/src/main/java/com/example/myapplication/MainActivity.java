@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         lista.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
         lista.setItemChecked(0,true);
 
-        String[] opcje = getResources().getStringArray(R.array.opcje);
+        String[] opcje = {"czerwony", "zielony", "niebieski", "zolty"};
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_single_choice,opcje);
         lista.setAdapter(adapter);
     }

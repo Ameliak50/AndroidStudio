@@ -2,9 +2,5 @@
     <string name="app_name">My Application</string>
     <string name="potwierdz">potwierdz</string>
     <string-array name="opcje">
-        <item>czerwony</item>
-        <item>zielony</item>
-        <item>niebieski</item>
-        <item>zolty</item>
     </string-array>
 </resources>
